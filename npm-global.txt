@@ -1,0 +1,10 @@
+
+
+
+firebase-tools
+http-server
+npm
+postman-cli
+typescript
+yarn
+
